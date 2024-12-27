@@ -141,3 +141,37 @@ GitHub.sublime-settings
 !.vscode/launch.json
 !.vscode/extensions.json
 .history
+
+# Python
+*.pyo
+*.pyd
+__pycache__/
+
+# Django
+
+# Environment files
+*.env
+
+# IDE
+.idea/
+.vscode/
+
+# Database
+*.db
+
+# Node.js
+node_modules/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Backup or temporary files
+*.swp
+*.swo
+
+# Miscellaneous
+*.pid
+
+# dbt
+.dbt/
