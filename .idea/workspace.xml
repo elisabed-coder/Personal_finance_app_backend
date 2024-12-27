@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="cec30003-ce43-4aa3-9163-b4ccd4ec4daa" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/backend/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/backend/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal-Finance-App" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +81,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735313303513</updated>
-      <workItem from="1735313304886" duration="5965000" />
+      <workItem from="1735313304886" duration="6428000" />
     </task>
     <servers />
   </component>
