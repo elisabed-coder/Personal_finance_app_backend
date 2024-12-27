@@ -4,33 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cec30003-ce43-4aa3-9163-b4ccd4ec4daa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Finance_app_backend.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Personal-Finance-App" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/analyses/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/backend/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/backend/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/backend/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/backend/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/backend/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dbt_project.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/macros/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/example/my_first_dbt_model.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/example/my_second_dbt_model.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/example/schema.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seeds/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/snapshots/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/.gitkeep" afterDir="false" />
-    </list>
+    <list default="true" id="cec30003-ce43-4aa3-9163-b4ccd4ec4daa" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +26,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "backend",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -104,7 +78,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735313303513</updated>
-      <workItem from="1735313304886" duration="1503000" />
+      <workItem from="1735313304886" duration="1823000" />
     </task>
     <servers />
   </component>
