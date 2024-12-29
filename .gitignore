@@ -177,3 +177,13 @@ Thumbs.db
 .dbt/
 
 dbt_project.yml
+
+analyses/
+macros/
+models/example/
+seeds/
+tests/
+.gitignore/
+README.md/
+
+dbt_project.yml/
