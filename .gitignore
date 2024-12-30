@@ -183,7 +183,9 @@ macros/
 models/example/
 seeds/
 tests/
-.gitignore/
 README.md/
+snapshots/
+README.md
+
 
 dbt_project.yml/
